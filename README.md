@@ -1,14 +1,5 @@
 # hack4gud an Sathyabama 1 day hackathon event
-@bosehiya
-
-@bharatkaushik9194
-
-@Kriti-Anand
-
-@intimanjunath
-
-are my teammates ;_;
-
+open CV based attendance system where attandace can he given on the basis of face recognition.
 
 Requirements:   pip install -r requirements.txt 
 
